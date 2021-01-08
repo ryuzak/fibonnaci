@@ -10,5 +10,5 @@ Description:
     where n is the index to calculate.
 
 How to run:
-    python fibonnaci.py <index>
+    python fibonnaci.py index-value
 
